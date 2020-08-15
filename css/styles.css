@@ -92,7 +92,7 @@ div.text{
 
 @media (max-width: 767px) {
     .col-sm-1 {
-        width: 100%;
+        width: 98%;
         float: left;
     }
 }
